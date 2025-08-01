@@ -1,6 +1,7 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
-    "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "title":"免费社工库",
+    "subTitle":"查档王 - 专业的个人信息查询平台，提供快速、安全、便捷的档案查询服务",
+    "avatarUrl":"https://chadangwang.com/static/images/logo.png",
+    "GMEEK_VERSION":"last",
+    "primerCSS":"<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/Primer/21.1.1/primer.css'>"
 }
